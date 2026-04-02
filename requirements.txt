@@ -1,0 +1,8 @@
+# Green Land — Sand Grain Size Measurement App
+# Python 3.10+
+
+streamlit>=1.33.0
+opencv-python-headless>=4.9.0.80
+numpy>=1.26.0
+Pillow>=10.3.0
+matplotlib>=3.8.0
